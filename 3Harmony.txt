@@ -1,0 +1,60 @@
+1. What is your favorite color?
+   Crimson Red (Sang)
+   Midnight Black (Devon)
+   Pure White (Changhoon)
+   Hot Pink (Nina)
+
+2. What do you like to do for fun?
+   Go clubbing with my friends (n)
+   Work. There's no time for fun (s)
+   Treat my friends to dinner (c)
+   I don't know... (d)
+
+3. What animal are you most like?
+   Puppy (c)
+   Fox (n)
+   Bear (s)
+   Turtle (d)
+
+4. What's your favorite drink?
+   Soda (d)
+   Soju (c)
+   Tea (s)
+   Coffee (n)
+
+5. What type of movie do you like?
+   Comedy (n)
+   Romance (c)
+   Documentary (s)
+   Animated (d)
+
+6. Someone just beat up your best friend. What do you do?
+   Beat them up. No one messes with my friends. (n)
+   Talk it out with the person - I'm sure we can work out our differences. (c)
+   Nothing. They probably deserved it... (s)
+   Nothing. I wouldn't be able to do anything about it if I wanted. (d)
+
+7. What's your favorite type of music?
+   Classical (s)
+   K-Pop (c)
+   Alternative (d)
+   EDM (n)
+
+8. What do you want most in life?
+   To be accepted (d)
+   To be understood (s)
+   To be true to myself (n)
+   To be loved (c)
+
+9. What element resonates with you?
+   Earth (c)
+   Water (n)
+   Fire (s)
+   Air (d)
+
+10. Your best friend just got dumped. What do you do?
+    Sit there awkwardly and try to comfort them? (d)
+    Tell them everything will be okay. (c)
+    Help them analyze what went wrong and become better. (s)
+    Take them out for drinks. They deserve better, anyway! (n)
+    

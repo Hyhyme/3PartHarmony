@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>Jane Re Character Personality Test</title>
+  </head>
+
+  <body>
+
+    <form action="/results" method="GET">
+      
+      <center>
+	
+	<font size="18">
+	  You are most like {{person}}!
+	</font>
+	
+      </center>
+      
+    </form>
+
+  </body>
+</html>
